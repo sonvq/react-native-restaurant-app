@@ -1,0 +1,12 @@
+1. choco install nodejs.install / install nodejs
+2. choco install python2 / install python
+3. npm install -g react-native-cli
+4. install android studio
+5. install watchman: http://facebook.github.io/watchman/docs/install.html
+6. ANDROID_HOME = C:\Users\sonvq\AppData\Local\Android\sdk (add system variable)
+7. Install missing sdk version
+https://stackoverflow.com/questions/38096225/automatically-accept-all-sdk-licences
+8. Create virtual devices and run it
+9. Run: react-native run-android
+10.npm install --save native-base
+11. mkdir app, cd app, touch AppCountainer.js
